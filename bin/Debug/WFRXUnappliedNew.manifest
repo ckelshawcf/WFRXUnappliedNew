@@ -1,0 +1,8 @@
+<DeploymentManifest version="5.0">
+  <CompositeStudioProject name="WFRXUnappliedNew" fileName="WFRXUnappliedNew.dll" assemblyName="WFRXUnappliedNew.dll" id="Project-8DB936307FA5991" version="19.1.118.0" deploymentVersion="1.13" configuration="" createdWith="Deployment" obfuscated="False" runtime="True" digest="D4E6F14B9D6BD2C8E5D755D55F39158651F972">
+    <Assemblies>
+      <Assembly value="WFRXUnappliedNew.dll" digest="6D845070F64FD5C0A9F18E251A216152917A87" />
+      <Assembly value="WFRXUnappliedNew.pdb" digest="F9BC75FB4465077601916F6CDFCAD167A2A17A" />
+    </Assemblies>
+  </CompositeStudioProject>
+</DeploymentManifest>
