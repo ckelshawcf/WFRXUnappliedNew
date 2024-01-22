@@ -1,0 +1,184 @@
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpan.Adapters.Virtual.dll
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpan.Adapters.Java.dll
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpan.WinInet.x32.dll
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpan.WinInet.x64.dll
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\Pega.ActiveX.x32.dll
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\Pega.ActiveX.x64.dll
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpan.Translators.Java.Agent.x32.dll
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpan.Translators.Java.Agent.x64.dll
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpan.Translators.Java.Profiler.x32.dll
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpan.Translators.Java.Profiler.x64.dll
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpan.Translators.Java.x32.dll
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpan.Translators.Java.x64.dll
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpanJavaBroker$1.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpanJavaBroker$OpenSpanNotification.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpanJavaBroker$OutgoingMessageThread.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpanJavaBroker.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpanJavaInvocationHelper.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpanJavaMethodReturn.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpanJavaPriviledgedInvokeHelper.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpanJavaTracing.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\IJavaNativeButton.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\IJavaNativeComboBox.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\IJavaNativeControl.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\IJavaNativeListBox.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\IJavaNativeMenuBar.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\IJavaNativeMenuItem.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\IJavaNativeObject.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\IJavaNativePanel.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\IJavaNativeScrollablePanel.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\IJavaNativeTable.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\IJavaNativeTextBox.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\IJavaNativeWrapperRedirect.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpanJavaAwtComponentWrapper$EventDispatcher.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpanJavaAwtComponentWrapper.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpanJavaAwtPanelWrapper.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpanJavaModel$WrappedObject.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpanJavaModel.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpanJavaObjectWrapper$1.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpanJavaObjectWrapper.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpanJavaSwingPanelWrapper.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpanOracleAbstractButtonTranslator$1.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpanOracleAbstractButtonTranslator.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpanOracleEwtChoiceTranslator.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpanOracleEwtLWDataSourceListTranslator.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpanOracleEwtLWMenuBarTranslator.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpanOracleEwtLWMenuItemTranslator.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpanOracleEwtLWMenuTranslator.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpanOracleEwtLWWindowTranslator.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpanOracleEwtPushButtonTranslator.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpanOracleEwtTextComponentTranslator.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpanOracleEwtToolBarTranslator.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpanOracleFormsUIDrawnPanelTranslator.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpanOracleFormsUIListViewTranslator.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpanOracleFormsUITextFieldTranslator.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpanOracleLWComponentTranslator.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpanTreeNodeId.class
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\RuntimeConfig.xml
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\DefaultWindowFactoryConfiguration.xml
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\openspan.ini
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpan.Virtual.Interfaces.delegates.tlb
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpan.Virtual.Interfaces.tlb
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpan.x32.sys
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\OpenSpan.x64.sys
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\Pega.GlobalAllocator.x32.dll
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\Pega.GlobalAllocator.x64.dll
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\Pega.Native.Remoting.x32.dll
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\Pega.Native.Remoting.x64.dll
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\Pega.Remoting.tlb
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\Pega.Scout.x32.dll
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\Pega.Scout.x64.dll
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\Pega.Security.x32.dll
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\Pega.Security.x64.dll
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\Pega.SharedMemory.x32.dll
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\Pega.SharedMemory.x64.dll
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\Pega.Sinon.x32.dll
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\Pega.Sinon.x64.dll
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\Pega.Utilities.x32.dll
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\Pega.Utilities.x64.dll
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\Pega.WER.x32.dll
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\Pega.WER.x64.dll
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\Pega.Windows.Broker.x32.dll
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\Pega.Windows.Broker.x64.dll
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\Pega.WinQueue.x32.dll
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\Pega.WinQueue.x64.dll
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\WFRXUnappliedNew.dll
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\bin\Debug\WFRXUnappliedNew.pdb
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\obj\Debug\ImportTypeMap.resources
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\obj\Debug\WFRXUnappliedNew.osproj.GenerateResource.Cache
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\obj\Debug\WFRXUnappliedNew.dll
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\obj\Debug\WFRXUnappliedNew.pdb
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\obj\Debug\WFRXUnappliedNew.osproj.ResolveComReference.cache
+C:\Users\RebeccaMuratore\OneDrive - srcLogic\Documents\Pega Robot Studio\Projects\WFRXUnappliedNew\WFRXUnappliedNew\obj\Debug\WFRXUnappliedNew.osprojResolveAssemblyReference.cache
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpan.Adapters.Virtual.dll
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpan.Adapters.Java.dll
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpan.WinInet.x32.dll
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpan.WinInet.x64.dll
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\Pega.ActiveX.x32.dll
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\Pega.ActiveX.x64.dll
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpan.Translators.Java.Agent.x32.dll
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpan.Translators.Java.Agent.x64.dll
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpan.Translators.Java.Profiler.x32.dll
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpan.Translators.Java.Profiler.x64.dll
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpan.Translators.Java.x32.dll
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpan.Translators.Java.x64.dll
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpanJavaBroker$1.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpanJavaBroker$OpenSpanNotification.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpanJavaBroker$OutgoingMessageThread.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpanJavaBroker.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpanJavaInvocationHelper.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpanJavaMethodReturn.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpanJavaPriviledgedInvokeHelper.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpanJavaTracing.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\IJavaNativeButton.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\IJavaNativeComboBox.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\IJavaNativeControl.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\IJavaNativeListBox.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\IJavaNativeMenuBar.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\IJavaNativeMenuItem.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\IJavaNativeObject.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\IJavaNativePanel.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\IJavaNativeScrollablePanel.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\IJavaNativeTable.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\IJavaNativeTextBox.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\IJavaNativeWrapperRedirect.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpanJavaAwtComponentWrapper$EventDispatcher.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpanJavaAwtComponentWrapper.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpanJavaAwtPanelWrapper.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpanJavaModel$WrappedObject.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpanJavaModel.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpanJavaObjectWrapper$1.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpanJavaObjectWrapper.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpanJavaSwingPanelWrapper.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpanOracleAbstractButtonTranslator$1.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpanOracleAbstractButtonTranslator.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpanOracleEwtChoiceTranslator.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpanOracleEwtLWDataSourceListTranslator.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpanOracleEwtLWMenuBarTranslator.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpanOracleEwtLWMenuItemTranslator.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpanOracleEwtLWMenuTranslator.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpanOracleEwtLWWindowTranslator.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpanOracleEwtPushButtonTranslator.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpanOracleEwtTextComponentTranslator.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpanOracleEwtToolBarTranslator.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpanOracleFormsUIDrawnPanelTranslator.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpanOracleFormsUIListViewTranslator.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpanOracleFormsUITextFieldTranslator.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpanOracleLWComponentTranslator.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpanTreeNodeId.class
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\RuntimeConfig.xml
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\DefaultWindowFactoryConfiguration.xml
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\openspan.ini
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpan.Virtual.Interfaces.delegates.tlb
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpan.Virtual.Interfaces.tlb
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpan.x32.sys
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\OpenSpan.x64.sys
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\Pega.GlobalAllocator.x32.dll
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\Pega.GlobalAllocator.x64.dll
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\Pega.Native.Remoting.x32.dll
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\Pega.Native.Remoting.x64.dll
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\Pega.Remoting.tlb
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\Pega.Scout.x32.dll
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\Pega.Scout.x64.dll
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\Pega.Security.x32.dll
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\Pega.Security.x64.dll
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\Pega.SharedMemory.x32.dll
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\Pega.SharedMemory.x64.dll
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\Pega.Sinon.x32.dll
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\Pega.Sinon.x64.dll
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\Pega.Utilities.x32.dll
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\Pega.Utilities.x64.dll
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\Pega.WER.x32.dll
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\Pega.WER.x64.dll
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\Pega.Windows.Broker.x32.dll
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\Pega.Windows.Broker.x64.dll
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\Pega.WinQueue.x32.dll
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\Pega.WinQueue.x64.dll
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\WFRXUnappliedNew.dll
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\bin\Debug\WFRXUnappliedNew.pdb
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\obj\Debug\WFRXUnappliedNew.osprojResolveAssemblyReference.cache
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\obj\Debug\WFRXUnappliedNew.osproj.ResolveComReference.cache
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\obj\Debug\ImportTypeMap.resources
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\obj\Debug\WFRXUnappliedNew.osproj.GenerateResource.Cache
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\obj\Debug\WFRXUnappliedNew.dll
+C:\Users\codyk\Documents\WFStuff\WFRXUnappliedNew\WFRXUnappliedNew\WFRXUnappliedNew-main\obj\Debug\WFRXUnappliedNew.pdb

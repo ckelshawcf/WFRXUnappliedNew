@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="_WAOracle_1_" xml:space="preserve">
+    <value>OSVSXUyUAAO2aXW/aMBSG/wqqelml0JZ1ldpJMNqNrbQMWNnFbhz7BLwZG/mDln8/mwRKB+SLjIsp4gKSvOc5ie2cnDfi+qOYTAUHrts8EB+uB/MpVJ4QM3Bz9DgF3p8i7jUImmqQyhtSTsTz6jvaf1Q5/XDdUAomPpsnBr9R9yAACRyD2iRMFBaSUf+k8mTDqeA3F17VfU4qHw3TRsINB6MlYieVrvEZxV9hPhC/gd/4l5eojuvvalfnF1B9f7X1DPtzpWHyb+leS6Jnykd5slTPg3pwGdRqpF5F5yguy3Je7oScqH91RcsZfeXXrrxaugRBnfhXNSC4ekbe4zqkWzKHy+Q1sKYz+HHAjF/QDB0w3ROV2jjcwTJGi/KwGdscdGEZT7eVqdacownFm4dcxB1lsC522xvnO5CIK4a0iFaB1xjZ+uu9nJ95hLGjJSd13LuLjHFdKQIrlDlSvoZmzpo9WWKOaMKT0SthAtGlbUq7IuRxzcMMKZVGutz1IDQNKEbarr0M0UaPhH1GdEApNILBWAIiqcNTCNt8JsKT+gxsmiqkA3osSA/sPZPmSrqSzuwhMgLikv2G1InsnGN77SmUQ4mmlql+tt3WA3L1umm0TjXU24Jt5+OLpnjJHc61FCxn9D1VOn/uDnDTRGnGd1d027UN+cIf/V+Adc7gLuKQd8z62I43Qz7bizJwgLyx8LLHrEX7ekCozDiC6zsbz3rVtEeC49uZ3WhRNUUaj1PdeGnRe6AWs7QnpiMIsOPwEMm+8jZQeYPD1MvhTvNsSMbkhfSdo9h3cB9t4WXQ8JVth7AOC+nrAzjfFcYz8xNv7bIcC4qhINj9sIU06gsj8aIQF4aN6nKhPFepCwUWBgsb/IJwXaPGha4YV6tXxawophCsoPldWPXvbfd+gC/u5QKhbk0/UShkaiKkG807CowUwbwfFjQxAwnwYMt6e1e/3IURWnr7nS7hrWjNIZz+beeahjKyy9+1IEDWZYZ3xZ0tgELObZMY0JGRoSV4mWwmF/ZSlLMolNPs1q+0jFktY/QexGtzDTJAdhY92xbYFaDtL838TJGx+sLN6YKk5rvvkQUhTlDa29Lelva2tLe7Ykt7W9rb0t6W9ra0t6W9Le3t/25vN0SfmPARazDm+mmx2+ttF8eRww7B68HEegjbD8eSN8Rx5JVqmxdbKPpYmN0ubF0Sl6cP2Eiq5wmglSqWNUYSSMeeuUzivVHGMikXPAEWSuIo3zVlVFNrbWNJa7I42vC2F89ZCGIJ0R9bIjMYD/tLm8D9ZsBAIjFSrb8U2ngJdPr2P1R/AA==</value>
+  </data>
+  <data name="_WAOracle_2_" xml:space="preserve">
+    <value>OpenSpan.Adapters.Virtual.VirtualTargets.VirtualMenuItem, OpenSpan.Adapters.Virtual</value>
+  </data>
+  <data name="_WAOracle_3_" xml:space="preserve">
+    <value>OpenSpan.Adapters.Virtual.VirtualTargets.VirtualMenuBar, OpenSpan.Adapters.Virtual</value>
+  </data>
+  <data name="_WAOracle_4_" xml:space="preserve">
+    <value>OpenSpan.Adapters.Virtual.VirtualTargets.VirtualControl, OpenSpan.Adapters.Virtual</value>
+  </data>
+  <data name="_WAOracle_5_" xml:space="preserve">
+    <value>OpenSpan.Adapters.Virtual.VirtualTargets.VirtualPanel, OpenSpan.Adapters.Virtual</value>
+  </data>
+  <data name="_WAOracle_6_" xml:space="preserve">
+    <value>OpenSpan.Adapters.Virtual.VirtualTargets.VirtualListBox, OpenSpan.Adapters.Virtual</value>
+  </data>
+  <data name="_WAOracle_7_" xml:space="preserve">
+    <value>OpenSpan.Adapters.Virtual.VirtualTargets.VirtualScrollablePanel, OpenSpan.Adapters.Virtual</value>
+  </data>
+  <data name="_WAOracle_8_" xml:space="preserve">
+    <value>OpenSpan.Adapters.Virtual.VirtualTargets.VirtualTextBox, OpenSpan.Adapters.Virtual</value>
+  </data>
+  <data name="_WAOracle_9_" xml:space="preserve">
+    <value>OpenSpan.Adapters.Virtual.VirtualTargets.VirtualButton, OpenSpan.Adapters.Virtual</value>
+  </data>
+  <data name="_WAOracle_10_" xml:space="preserve">
+    <value>OpenSpan.Adapters.Virtual.VirtualTargets.VirtualComboBoxEx, OpenSpan.Adapters.Virtual</value>
+  </data>
+</root>
